@@ -11,5 +11,5 @@ JavaScript
 📌 Live Demo
 Visit Portfolio
 📬 Contact
-Email: your-email@example.com
+Email: guptasuhani2407@gmail.com
 LinkedIn: linkedin.com/in/yourprofile
